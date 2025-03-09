@@ -1,0 +1,11 @@
+amt,gender,category,is_fraud
+2.86,M,personal_care,0.0
+41.28,F,health_fitness,0.0
+60.05,M,misc_pos,0.0
+3.19,M,travel,0.0
+19.55,F,kids_pets,0.0
+66.54,F,food_dining,0.0
+42.4,M,kids_pets,0.0
+2.91,F,home,0.0
+7.93,M,food_dining,0.0
+2.91,F,kids_pets,0.0
